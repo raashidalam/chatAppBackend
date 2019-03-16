@@ -1,0 +1,14 @@
+C:\Users\raashid.alam\source\repos\webchat\webchat\bin\Debug\netcoreapp2.1\webchat.deps.json
+C:\Users\raashid.alam\source\repos\webchat\webchat\bin\Debug\netcoreapp2.1\webchat.runtimeconfig.json
+C:\Users\raashid.alam\source\repos\webchat\webchat\bin\Debug\netcoreapp2.1\webchat.runtimeconfig.dev.json
+C:\Users\raashid.alam\source\repos\webchat\webchat\bin\Debug\netcoreapp2.1\webchat.dll
+C:\Users\raashid.alam\source\repos\webchat\webchat\obj\Debug\netcoreapp2.1\webchat.csproj.CoreCompileInputs.cache
+C:\Users\raashid.alam\source\repos\webchat\webchat\obj\Debug\netcoreapp2.1\webchat.RazorAssemblyInfo.cache
+C:\Users\raashid.alam\source\repos\webchat\webchat\obj\Debug\netcoreapp2.1\webchat.RazorAssemblyInfo.cs
+C:\Users\raashid.alam\source\repos\webchat\webchat\obj\Debug\netcoreapp2.1\webchat.AssemblyInfoInputs.cache
+C:\Users\raashid.alam\source\repos\webchat\webchat\obj\Debug\netcoreapp2.1\webchat.AssemblyInfo.cs
+C:\Users\raashid.alam\source\repos\webchat\webchat\obj\Debug\netcoreapp2.1\webchat.RazorTargetAssemblyInfo.cache
+C:\Users\raashid.alam\source\repos\webchat\webchat\bin\Debug\netcoreapp2.1\webchat.pdb
+C:\Users\raashid.alam\source\repos\webchat\webchat\obj\Debug\netcoreapp2.1\webchat.dll
+C:\Users\raashid.alam\source\repos\webchat\webchat\obj\Debug\netcoreapp2.1\webchat.pdb
+C:\Users\raashid.alam\source\repos\webchat\webchat\obj\Debug\netcoreapp2.1\webchat.csprojAssemblyReference.cache

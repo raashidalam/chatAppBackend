@@ -1,0 +1,9 @@
+C:\Users\raashid.alam\source\repos\webchat\DB\bin\Debug\netcoreapp2.1\DB.deps.json
+C:\Users\raashid.alam\source\repos\webchat\DB\bin\Debug\netcoreapp2.1\DB.dll
+C:\Users\raashid.alam\source\repos\webchat\DB\bin\Debug\netcoreapp2.1\DB.pdb
+C:\Users\raashid.alam\source\repos\webchat\DB\obj\Debug\netcoreapp2.1\DB.csprojAssemblyReference.cache
+C:\Users\raashid.alam\source\repos\webchat\DB\obj\Debug\netcoreapp2.1\DB.csproj.CoreCompileInputs.cache
+C:\Users\raashid.alam\source\repos\webchat\DB\obj\Debug\netcoreapp2.1\DB.AssemblyInfoInputs.cache
+C:\Users\raashid.alam\source\repos\webchat\DB\obj\Debug\netcoreapp2.1\DB.AssemblyInfo.cs
+C:\Users\raashid.alam\source\repos\webchat\DB\obj\Debug\netcoreapp2.1\DB.dll
+C:\Users\raashid.alam\source\repos\webchat\DB\obj\Debug\netcoreapp2.1\DB.pdb
